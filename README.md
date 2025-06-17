@@ -6,5 +6,5 @@
 <p> Define um parágrafo de texto.
 <a>  Cria um hiperlink para outra página ou local.
 <img>  Inseri uma imagem na página.
-ul>, <ol> e <li>: <ul> cria uma lista não ordenada (com marcadores)
+<ul>, <ol> e <li>: <ul> cria uma lista não ordenada (com marcadores)
 <div>: Define uma divisão ou seção na página, usada para estruturar o conteúdo.
